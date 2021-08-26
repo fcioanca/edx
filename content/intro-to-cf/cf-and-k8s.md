@@ -22,7 +22,7 @@ Kubernetes (k8s) is an infrastructure platform for automating deployment, scalin
 Cloud Foundry and Kubernetes are based on the same (or similar) infrastructure primitives. However, Cloud Foundry has chosen to implement automation that encapsulates these primitives in higher-level abstractions. For example, updating the runtime components in the container image for an application without downtime is trivial in Cloud Foundry. This is not the case in Kubernetes. 
 The very nature of being a generalist platform means K8s must keep these primitives exposed as first-class citizens. This has some profound implications, the largest of which is cognitive load. 
 
-It is no secret that technology is challenging. There are many considerations for developers have to account for. By establishing common patterns based on best practices and encapsulating complex but low-level tasks in simple commands, Cloud Foundry significantly reduces the cognitive load on users. 
+It is no secret that technology is challenging. There are many considerations developers have to account for. By establishing common patterns based on best practices and encapsulating complex but low-level tasks in simple commands, Cloud Foundry significantly reduces the cognitive load on users. 
 
 As a comparison, let's consider three representative scenarios: onboarding and learning, day-to-day actions, and compliance.
 
