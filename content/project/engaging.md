@@ -6,7 +6,7 @@ We are focused on exchanging practical experience — inclusive of people across
 
 ## Training and Certification
 
-While this course is aimed at the "why" of Cloud Foundry, the Linux Foundation offers and in depth developer training course aimed at "how to use Cloud Foundry". This in depth course also prepares developers for the "Cloud Foundry Certified Developer" exam. More information is available here:
+While this course is aimed at the "why" of Cloud Foundry, the Linux Foundation offers an in depth developer training course aimed at "how to use Cloud Foundry". This in depth course also prepares developers for the "Cloud Foundry Certified Developer" exam. More information is available here:
 
 - Training: [Cloud Foundry for Developers](https://training.linuxfoundation.org/training/cloud-foundry-for-developers/)
 - Certification: [Cloud Foundry Certified Developer exam](https://training.linuxfoundation.org/certification/cloud-foundry-certified-developer-cfcd/)
